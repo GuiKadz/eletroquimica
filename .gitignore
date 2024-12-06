@@ -1,0 +1,23 @@
+# Ambiente virtual
+venv/
+.env/
+__pycache__/
+*.pyc
+*.pyo
+
+# Arquivos de configuração do IDE (exemplo para VS Code)
+.vscode/
+
+# Arquivos de cache de pacotes
+*.egg-info/
+*.eggs/
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.bak
+*.swp
+
+# Arquivos de banco de dados SQLite
+*.sqlite3
